@@ -1,6 +1,6 @@
-# Aviva Spa — Demo Website
+# Allure Unisex Beauty Salon — Demo Website
 
-A luxury spa website built as a client demo. Single-file HTML with no dependencies or build tools required.
+A luxury salon website built as a client demo. Single-file HTML with no dependencies or build tools required.
 
 ## What's included
 
